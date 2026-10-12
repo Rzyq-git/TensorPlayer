@@ -1,5 +1,7 @@
 # iClovers TensorPlayer 🎬⚡
 
+TensorPlayer - Official Desktop Application
+
 > **Breaking the single-window paradigm: A multimodal media workstation powered by fluid physics layout and tensor-grade computer vision.**  
 > *打破传统播放器的“单一视窗”牢笼 —— 基于流体物理排版与计算级 AI 的多模态多媒体工作台。*
 
