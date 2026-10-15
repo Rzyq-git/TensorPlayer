@@ -5,6 +5,8 @@ TensorPlayer - Official Desktop Application
 > **Breaking the single-window paradigm: A multimodal media workstation powered by fluid physics layout and tensor-grade computer vision.**  
 > *打破传统播放器的“单一视窗”牢笼 —— 基于流体物理排版与计算级 AI 的多模态多媒体工作台。*
 
+[Video Overview](https://studio.youtube.com/video/LAu5UEu_gYk/edit)
+
 [![Language](https://img.shields.io/badge/Language-C%2B%2B17%2F20-blue.svg)](https://en.cppreference.com/)
 [![Framework](https://img.shields.io/badge/Framework-Qt%206-green.svg)](https://www.qt.io/)
 [![Engine](https://img.shields.io/badge/Render-MDK%20%7C%20RHI%20%7C%20FFmpeg-orange.svg)](https://github.com/wang-bin/mdk-sdk)
@@ -21,7 +23,7 @@ TensorPlayer - Official Desktop Application
 
 ![Ai处理](Ai处理.jpg)
 
-[Video Overview](https://studio.youtube.com/video/LAu5UEu_gYk/edit)
+
 
 ---
 
@@ -69,6 +71,15 @@ For decades, mainstream media players have adhered to a monolithic paradigm: a b
 
 **iClovers TensorPlayer** 颠覆了这一现状——它不仅是一个高性能的跨格式播放器，更是一个融合了**流体网格排版**、**多区间循环引擎**与**工业级视觉计算（Tensor）**的多模态视讯工作台。
 
+[视频介绍](https://www.bilibili.com/video/BV1b5e16FEF8/?vd_source=f43a4085c7e21579fa851ae0b515ab55)
+
+[多区间播放](https://www.bilibili.com/video/BV1cAHC62E93/?vd_source=f43a4085c7e21579fa851ae0b515ab55)
+
+[多图片转视频](https://www.bilibili.com/video/BV1yjH962EXH/?vd_source=f43a4085c7e21579fa851ae0b515ab55)
+
+[多模态电视墙](https://www.bilibili.com/video/BV1oHpg67E9i/?vd_source=f43a4085c7e21579fa851ae0b515ab55)
+
+[色盲矩阵](https://www.bilibili.com/video/BV1HapC6SEpi/?vd_source=f43a4085c7e21579fa851ae0b515ab55)
 ---
 
 ### ✨ 核心特性
